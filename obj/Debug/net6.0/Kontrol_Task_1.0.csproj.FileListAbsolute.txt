@@ -1,0 +1,15 @@
+C:\Geek_Brains_KT\Kontrol_Task_1.0\bin\Debug\net6.0\Kontrol_Task_1.0.exe
+C:\Geek_Brains_KT\Kontrol_Task_1.0\bin\Debug\net6.0\Kontrol_Task_1.0.deps.json
+C:\Geek_Brains_KT\Kontrol_Task_1.0\bin\Debug\net6.0\Kontrol_Task_1.0.runtimeconfig.json
+C:\Geek_Brains_KT\Kontrol_Task_1.0\bin\Debug\net6.0\Kontrol_Task_1.0.dll
+C:\Geek_Brains_KT\Kontrol_Task_1.0\bin\Debug\net6.0\Kontrol_Task_1.0.pdb
+C:\Geek_Brains_KT\Kontrol_Task_1.0\obj\Debug\net6.0\Kontrol_Task_1.0.csproj.AssemblyReference.cache
+C:\Geek_Brains_KT\Kontrol_Task_1.0\obj\Debug\net6.0\Kontrol_Task_1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geek_Brains_KT\Kontrol_Task_1.0\obj\Debug\net6.0\Kontrol_Task_1.0.AssemblyInfoInputs.cache
+C:\Geek_Brains_KT\Kontrol_Task_1.0\obj\Debug\net6.0\Kontrol_Task_1.0.AssemblyInfo.cs
+C:\Geek_Brains_KT\Kontrol_Task_1.0\obj\Debug\net6.0\Kontrol_Task_1.0.csproj.CoreCompileInputs.cache
+C:\Geek_Brains_KT\Kontrol_Task_1.0\obj\Debug\net6.0\Kontrol_Task_1.0.dll
+C:\Geek_Brains_KT\Kontrol_Task_1.0\obj\Debug\net6.0\refint\Kontrol_Task_1.0.dll
+C:\Geek_Brains_KT\Kontrol_Task_1.0\obj\Debug\net6.0\Kontrol_Task_1.0.pdb
+C:\Geek_Brains_KT\Kontrol_Task_1.0\obj\Debug\net6.0\Kontrol_Task_1.0.genruntimeconfig.cache
+C:\Geek_Brains_KT\Kontrol_Task_1.0\obj\Debug\net6.0\ref\Kontrol_Task_1.0.dll
